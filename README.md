@@ -1,11 +1,10 @@
-## 📘 Description
+# Java Core Practice Project
 
-This project demonstrates key principles of Java OOP (Object-Oriented Programming), including:
+This project contains Java exercises to practice OOP, inheritance, exceptions, and collections.
 
-- Inheritance (`Student extends Human`)
-- Interfaces and custom exceptions
-- Working with arrays
-- Exception handling (`GroupOverflowException`, `StudentNotFoundException`)
-- Basic array operations (add, search, remove)
+I am Viktoriia, a beginner Java developer learning actively and improving my skills step-by-step.
 
-🛠 Developed as part of practice exercises while learning Java Core.
+## Contact
+
+- Email: viktoriia.shablina@gmail.com  
+- Telegram: [@Code_pixel_1](https://t.me/Code_pixel_1)
